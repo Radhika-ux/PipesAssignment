@@ -1,0 +1,19 @@
+{
+    "name": "Radhika",
+    "details": 
+        {
+            "address": "nellore",
+            "phone_number": "123456789"
+        },
+
+        "friends": [ {
+            "name": "suresh",
+            "phone_number": 987654321
+        },
+        {
+            "name": "Hanvika",
+            "phone_number": 9812345678
+        }
+    ],
+    "is_registered": true
+}
